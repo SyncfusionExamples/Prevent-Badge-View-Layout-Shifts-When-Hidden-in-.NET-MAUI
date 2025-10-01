@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadgeViewSample", "BadgeViewSample\BadgeViewSample.csproj", "{7C573F22-1FB2-431B-A5AF-2019A9010CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C573F22-1FB2-431B-A5AF-2019A9010CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C573F22-1FB2-431B-A5AF-2019A9010CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C573F22-1FB2-431B-A5AF-2019A9010CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C573F22-1FB2-431B-A5AF-2019A9010CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CFC485-0A83-4A0F-A89B-5A2137BE55D2}
+	EndGlobalSection
+EndGlobal
