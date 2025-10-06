@@ -20,7 +20,7 @@
                 <Image Source="instagram.png" WidthRequest="50" HeightRequest="50"/>
             </core:SfBadgeView.Content>
             <core:SfBadgeView.BadgeSettings>
-                <core:BadgeSettings BadgeAlignment="Center" Type="None" Background="Red"/>
+                <core:BadgeSettings BadgeAlignment="Center"/>
             </core:SfBadgeView.BadgeSettings>
         </core:SfBadgeView>
 
@@ -38,11 +38,10 @@
                 <Image Source="x.png" WidthRequest="50" HeightRequest="50"/>
             </core:SfBadgeView.Content>
             <core:SfBadgeView.BadgeSettings>
-                <core:BadgeSettings BadgeAlignment="Center" Type="None" Background="Red"/>
+                <core:BadgeSettings BadgeAlignment="Center"/>
             </core:SfBadgeView.BadgeSettings>
         </core:SfBadgeView>
 
     </HorizontalStackLayout>
-
 
 </ContentPage>
