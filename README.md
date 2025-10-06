@@ -21,7 +21,7 @@ This sample demonstrates how to prevent layout shifts in the Badge View when hid
                 <Image Source="instagram.png" WidthRequest="50" HeightRequest="50"/>
             </core:SfBadgeView.Content>
             <core:SfBadgeView.BadgeSettings>
-                <core:BadgeSettings BadgeAlignment="Center" Type="None" Background="Red"/>
+                <core:BadgeSettings BadgeAlignment="Center" AutoHide="True"/>
             </core:SfBadgeView.BadgeSettings>
         </core:SfBadgeView>
 
@@ -39,7 +39,7 @@ This sample demonstrates how to prevent layout shifts in the Badge View when hid
                 <Image Source="x.png" WidthRequest="50" HeightRequest="50"/>
             </core:SfBadgeView.Content>
             <core:SfBadgeView.BadgeSettings>
-                <core:BadgeSettings BadgeAlignment="Center" Type="None" Background="Red"/>
+                <core:BadgeSettings BadgeAlignment="Center" AutoHide="True"/>
             </core:SfBadgeView.BadgeSettings>
         </core:SfBadgeView>
 
